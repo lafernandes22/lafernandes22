@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Lucas Fernandes 👋
+
+I'm currently a senior at Worcester Polytechnic Institute majoring in Computer Science with a minor in Data Science!
 
 <!--
 **lafernandes22/lafernandes22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
